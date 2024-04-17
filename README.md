@@ -31,6 +31,8 @@ npm run lint
 ```
 
 ## Visual
+<img src="./assets//screenshot1.png" width="600" title="to-doLists">
+<img src="./assets//screenshot2.png" width="600" title="to-doClear">
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
